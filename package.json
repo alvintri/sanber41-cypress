@@ -1,0 +1,26 @@
+{
+  "name": "sanber41-cypress",
+  "version": "1.0.0",
+  "description": "cypress kasir aja end to end test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvintri/sanber41-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "kasiraja"
+  ],
+  "author": "alvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvintri/sanber41-cypress/issues"
+  },
+  "homepage": "https://github.com/alvintri/sanber41-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
